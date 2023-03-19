@@ -20,4 +20,4 @@ const getCountryHTML = ({ name, flags, area, region }) => {
   </div>`;
 };
 
-loadCountries();
+//loadCountries();
